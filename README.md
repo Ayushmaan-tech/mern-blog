@@ -20,3 +20,11 @@ This is a full-featured blog website built using the MERN (MongoDB, Express, Rea
 ![blog-3](https://github.com/user-attachments/assets/b8753fc1-64ee-4af6-bdb9-9f968cb5d5c4)
 ![blog-4](https://github.com/user-attachments/assets/0e2f2920-7d53-415b-814a-c4f43a8edb1b)
 
+
+## Installation
+
+### Prerequisites
+- [Node.js]
+- [Yarn]
+- [MongoDB]
+
